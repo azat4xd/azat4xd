@@ -94,3 +94,6 @@ jobs:
           kubectl: '1.6.0'
           kustomize: '3.5.4'
       ...
+git clone https://github.com/sundowndev/PhoneInfoga
+cd PhoneInfoga/
+python3 -m pip install -r requirements.txt
