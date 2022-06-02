@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 		< değer >System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</ değeri >
 	</ yeniden başlık >
 	< yeniden başlık  adı = " yazar " >
-		< değer >System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</ değer >
+	< değer >System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</ değer >
 	</ yeniden başlık >
 	< veri  adı = " SkipText "  xml : boşluk = " koru " >
     < değer >ATLA</ değeri >
